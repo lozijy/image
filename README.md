@@ -1,2 +1,2 @@
 # image
-The repository which restore the all kind of images used by other repository..
+The repository which restores all kind of images used by other repository..
